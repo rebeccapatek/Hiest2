@@ -1,0 +1,10 @@
+/Users/rebeccapatek/workspace/csharp/exercises/HiestPartII/obj/Debug/netcoreapp3.1/HiestPartII.csprojAssemblyReference.cache
+/Users/rebeccapatek/workspace/csharp/exercises/HiestPartII/obj/Debug/netcoreapp3.1/HiestPartII.AssemblyInfoInputs.cache
+/Users/rebeccapatek/workspace/csharp/exercises/HiestPartII/obj/Debug/netcoreapp3.1/HiestPartII.AssemblyInfo.cs
+/Users/rebeccapatek/workspace/csharp/exercises/HiestPartII/bin/Debug/netcoreapp3.1/HiestPartII.deps.json
+/Users/rebeccapatek/workspace/csharp/exercises/HiestPartII/bin/Debug/netcoreapp3.1/HiestPartII.runtimeconfig.json
+/Users/rebeccapatek/workspace/csharp/exercises/HiestPartII/bin/Debug/netcoreapp3.1/HiestPartII.runtimeconfig.dev.json
+/Users/rebeccapatek/workspace/csharp/exercises/HiestPartII/bin/Debug/netcoreapp3.1/HiestPartII.dll
+/Users/rebeccapatek/workspace/csharp/exercises/HiestPartII/bin/Debug/netcoreapp3.1/HiestPartII.pdb
+/Users/rebeccapatek/workspace/csharp/exercises/HiestPartII/obj/Debug/netcoreapp3.1/HiestPartII.dll
+/Users/rebeccapatek/workspace/csharp/exercises/HiestPartII/obj/Debug/netcoreapp3.1/HiestPartII.pdb
